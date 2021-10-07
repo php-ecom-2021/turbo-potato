@@ -1,2 +1,2 @@
 <?php
-echo 'Hello from Nick';
+echo 'Hello from Nick, Edin and Dorota';
